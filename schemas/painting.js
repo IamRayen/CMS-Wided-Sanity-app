@@ -21,8 +21,6 @@ export default {
         name: 'introduction',
         title: 'Introduction',
         type: 'text',
-        rows: 3,
-        validation: Rule => Rule.max(120)
       },
       {
         name: 'author',
